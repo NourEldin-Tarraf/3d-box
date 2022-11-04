@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #050505;
+    background: #573a3a;
 
 }
 
@@ -91,6 +91,12 @@ body {
 
 
     background-size: 200% auto;
+}
+.one:hover{
+    scale: 1.15;
+}
+.two:hover{
+    scale: 1.15;
 }
 
 .cube div span img {
